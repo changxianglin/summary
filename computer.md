@@ -12,5 +12,5 @@
     
 #### 这些真的只有画图才能说明白.
 
-![计算机理解](computer-mykown)
-![计算机基础](computer-base)
+![计算机理解](computer-myknow.png)
+![计算机基础](computer-base.jpg)
