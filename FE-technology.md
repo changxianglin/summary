@@ -8,4 +8,4 @@
 * 自动化测试 : Jasmine、Mocha、Karma
 
 #### 图解
-![移动前端技术图](mobile-web.jpg)
+![移动前端技术图](mobile-web.jpg, "mobile-FE")
